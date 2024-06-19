@@ -10,6 +10,7 @@ Semua endpoint yang tercantum di bawah ini akan dimulai dengan base URL layanan 
 
 This repository contains the backend API for the BooTani application, built with Express.js. The API provides endpoints for managing and accessing data related to the BooTani app.
 
+![Logo](.final_architecture.png)
 ## Table of Contents
 
 - [Installation dan Running Server Local]
